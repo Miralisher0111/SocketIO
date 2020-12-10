@@ -1,0 +1,23 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miralisher0111/SocketIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miralisher0111/SocketIO/issues"
+  },
+  "homepage": "https://github.com/Miralisher0111/SocketIO#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
